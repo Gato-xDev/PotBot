@@ -15,7 +15,7 @@ damageResistanceActive - if resistance should be used
 onHitHeal - # Of HP for player in <players> to heal when hit by other players (Very OP in PVP)
 onHitHealActive - if onHitHeal healing should be used
 
-<PotBotConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
   <players>
     <string>76561198970181914</string>
     <string>76561198143971531</string>
@@ -26,4 +26,3 @@ onHitHealActive - if onHitHeal healing should be used
   <damageResistanceActive>true</damageResistanceActive>
   <onHitHeal>0</onHitHeal>
   <onHitHealActive>true</onHitHealActive>
-</PotBotConfiguration>
